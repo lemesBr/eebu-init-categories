@@ -1,0 +1,652 @@
+[
+  {
+    "category_id": null,
+    "role": 1,
+    "name": "3.01 Receitas de Vendas e de Serviços"
+  },
+  {
+    "category_id": "3.01 Receitas de Vendas e de Serviços",
+    "role": 1,
+    "name": "Receitas de Serviços"
+  },
+  {
+    "category_id": "3.01 Receitas de Vendas e de Serviços",
+    "role": 1,
+    "name": "Receitas de Vendas"
+  },
+  {
+    "category_id": null,
+    "role": 1,
+    "name": "3.03 Outras Receitas e Entradas"
+  },
+  {
+    "category_id": "3.03 Outras Receitas e Entradas",
+    "role": 1,
+    "name": "Adiantamentos para futuros Aumentos de Capital - AFAC"
+  },
+  {
+    "category_id": "3.03 Outras Receitas e Entradas",
+    "role": 1,
+    "name": "Empréstimos de Bancos"
+  },
+  {
+    "category_id": "3.03 Outras Receitas e Entradas",
+    "role": 1,
+    "name": "Empréstimos de Instituições"
+  },
+  {
+    "category_id": "3.03 Outras Receitas e Entradas",
+    "role": 1,
+    "name": "Empréstimos de Sócios"
+  },
+  {
+    "category_id": "3.03 Outras Receitas e Entradas",
+    "role": 1,
+    "name": "Integralização de Capital Social"
+  },
+  {
+    "category_id": "3.03 Outras Receitas e Entradas",
+    "role": 1,
+    "name": "Receitas a Identificar"
+  },
+  {
+    "category_id": null,
+    "role": 0,
+    "name": "4.01 Impostos sobre Vendas e sobre Serviços"
+  },
+  {
+    "category_id": "4.01 Impostos sobre Vendas e sobre Serviços",
+    "role": 0,
+    "name": "ICMS ST sobre Vendas"
+  },
+  {
+    "category_id": "4.01 Impostos sobre Vendas e sobre Serviços",
+    "role": 0,
+    "name": "ISS sobre Faturamento"
+  },
+  {
+    "category_id": "4.01 Impostos sobre Vendas e sobre Serviços",
+    "role": 0,
+    "name": "Simples Nacional - DAS"
+  },
+  {
+    "category_id": null,
+    "role": 0,
+    "name": "4.02 Despesas com Vendas e Serviços"
+  },
+  {
+    "category_id": "4.02 Despesas com Vendas e Serviços",
+    "role": 0,
+    "name": "Comissões de Vendedores"
+  },
+  {
+    "category_id": "4.02 Despesas com Vendas e Serviços",
+    "role": 0,
+    "name": "Materiais Aplicados na Prestação de Serviços"
+  },
+  {
+    "category_id": "4.02 Despesas com Vendas e Serviços",
+    "role": 0,
+    "name": "Materiais para Revenda"
+  },
+  {
+    "category_id": "4.02 Despesas com Vendas e Serviços",
+    "role": 0,
+    "name": "Transporte de Mercadorias Vendidas"
+  },
+  {
+    "category_id": null,
+    "role": 0,
+    "name": "4.03 Despesas com Salários e Encargos"
+  },
+  {
+    "category_id": "4.03 Despesas com Salários e Encargos",
+    "role": 0,
+    "name": "13º Salário - 1ª Parcela"
+  },
+  {
+    "category_id": "4.03 Despesas com Salários e Encargos",
+    "role": 0,
+    "name": "13º Salário - 2ª Parcela"
+  },
+  {
+    "category_id": "4.03 Despesas com Salários e Encargos",
+    "role": 0,
+    "name": "Adiantamento Salarial"
+  },
+  {
+    "category_id": "4.03 Despesas com Salários e Encargos",
+    "role": 0,
+    "name": "Férias"
+  },
+  {
+    "category_id": "4.03 Despesas com Salários e Encargos",
+    "role": 0,
+    "name": "FGTS e Multa de FGTS"
+  },
+  {
+    "category_id": "4.03 Despesas com Salários e Encargos",
+    "role": 0,
+    "name": "INSS sobre Salários - GPS"
+  },
+  {
+    "category_id": "4.03 Despesas com Salários e Encargos",
+    "role": 0,
+    "name": "IRRF s/ Salários - DARF 0561"
+  },
+  {
+    "category_id": "4.03 Despesas com Salários e Encargos",
+    "role": 0,
+    "name": "PLR - Participação nos Lucros e Resultados"
+  },
+  {
+    "category_id": "4.03 Despesas com Salários e Encargos",
+    "role": 0,
+    "name": "Remuneração de Autônomos"
+  },
+  {
+    "category_id": "4.03 Despesas com Salários e Encargos",
+    "role": 0,
+    "name": "Remuneração de Estagiários"
+  },
+  {
+    "category_id": "4.03 Despesas com Salários e Encargos",
+    "role": 0,
+    "name": "Rescisões"
+  },
+  {
+    "category_id": "4.03 Despesas com Salários e Encargos",
+    "role": 0,
+    "name": "Salários"
+  },
+  {
+    "category_id": null,
+    "role": 0,
+    "name": "4.04 Despesas com Colaboradores"
+  },
+  {
+    "category_id": "4.04 Despesas com Colaboradores",
+    "role": 0,
+    "name": "Confraternizações"
+  },
+  {
+    "category_id": "4.04 Despesas com Colaboradores",
+    "role": 0,
+    "name": "Contribuição Sindical"
+  },
+  {
+    "category_id": "4.04 Despesas com Colaboradores",
+    "role": 0,
+    "name": "Cursos e Treinamentos"
+  },
+  {
+    "category_id": "4.04 Despesas com Colaboradores",
+    "role": 0,
+    "name": "Exames Médicos"
+  },
+  {
+    "category_id": "4.04 Despesas com Colaboradores",
+    "role": 0,
+    "name": "Farmácia"
+  },
+  {
+    "category_id": "4.04 Despesas com Colaboradores",
+    "role": 0,
+    "name": "Gratificações"
+  },
+  {
+    "category_id": "4.04 Despesas com Colaboradores",
+    "role": 0,
+    "name": "Plano de Saúde Colaboradores"
+  },
+  {
+    "category_id": "4.04 Despesas com Colaboradores",
+    "role": 0,
+    "name": "Plano Odontológico Colaboradores"
+  },
+  {
+    "category_id": "4.04 Despesas com Colaboradores",
+    "role": 0,
+    "name": "Seguro de Vida"
+  },
+  {
+    "category_id": "4.04 Despesas com Colaboradores",
+    "role": 0,
+    "name": "Uniformes"
+  },
+  {
+    "category_id": "4.04 Despesas com Colaboradores",
+    "role": 0,
+    "name": "Vale-Alimentação"
+  },
+  {
+    "category_id": "4.04 Despesas com Colaboradores",
+    "role": 0,
+    "name": "Vale-Transporte"
+  },
+  {
+    "category_id": null,
+    "role": 0,
+    "name": "4.05 Despesas Administrativas"
+  },
+  {
+    "category_id": "4.05 Despesas Administrativas",
+    "role": 0,
+    "name": "Bens de Pequeno Valor"
+  },
+  {
+    "category_id": "4.05 Despesas Administrativas",
+    "role": 0,
+    "name": "Cartório"
+  },
+  {
+    "category_id": "4.05 Despesas Administrativas",
+    "role": 0,
+    "name": "Copa e Cozinha"
+  },
+  {
+    "category_id": "4.05 Despesas Administrativas",
+    "role": 0,
+    "name": "Correios"
+  },
+  {
+    "category_id": "4.05 Despesas Administrativas",
+    "role": 0,
+    "name": "Honorários (outros)"
+  },
+  {
+    "category_id": "4.05 Despesas Administrativas",
+    "role": 0,
+    "name": "Honorários Advocatícios"
+  },
+  {
+    "category_id": "4.05 Despesas Administrativas",
+    "role": 0,
+    "name": "Honorários Consultoria"
+  },
+  {
+    "category_id": "4.05 Despesas Administrativas",
+    "role": 0,
+    "name": "Honorários Contábeis"
+  },
+  {
+    "category_id": "4.05 Despesas Administrativas",
+    "role": 0,
+    "name": "Lanches e Refeições"
+  },
+  {
+    "category_id": "4.05 Despesas Administrativas",
+    "role": 0,
+    "name": "Manutenção de Equipamentos"
+  },
+  {
+    "category_id": "4.05 Despesas Administrativas",
+    "role": 0,
+    "name": "Materiais de Escritório"
+  },
+  {
+    "category_id": "4.05 Despesas Administrativas",
+    "role": 0,
+    "name": "Materiais de Limpeza e de Higiene"
+  },
+  {
+    "category_id": "4.05 Despesas Administrativas",
+    "role": 0,
+    "name": "Retenção - Darf 1708 - IRRF"
+  },
+  {
+    "category_id": "4.05 Despesas Administrativas",
+    "role": 0,
+    "name": "Retenção - Darf 5952 - PIS/COFINS/CSLL"
+  },
+  {
+    "category_id": "4.05 Despesas Administrativas",
+    "role": 0,
+    "name": "Retenção - GPS 2631 - INSS"
+  },
+  {
+    "category_id": "4.05 Despesas Administrativas",
+    "role": 0,
+    "name": "Retenção - ISS Serviços Tomados"
+  },
+  {
+    "category_id": "4.05 Despesas Administrativas",
+    "role": 0,
+    "name": "Telefonia e Internet"
+  },
+  {
+    "category_id": "4.05 Despesas Administrativas",
+    "role": 0,
+    "name": "Telefonia Móvel"
+  },
+  {
+    "category_id": "4.05 Despesas Administrativas",
+    "role": 0,
+    "name": "Transporte Urbano (táxi, Uber)"
+  },
+  {
+    "category_id": null,
+    "role": 0,
+    "name": "4.06 Despesas Comerciais"
+  },
+  {
+    "category_id": "4.06 Despesas Comerciais",
+    "role": 0,
+    "name": "Brindes para Clientes"
+  },
+  {
+    "category_id": "4.06 Despesas Comerciais",
+    "role": 0,
+    "name": "Marketing e Publicidade"
+  },
+  {
+    "category_id": "4.06 Despesas Comerciais",
+    "role": 0,
+    "name": "Viagens e Representações"
+  },
+  {
+    "category_id": null,
+    "role": 0,
+    "name": "4.07 Despesas com Imóvel"
+  },
+  {
+    "category_id": "4.07 Despesas com Imóvel",
+    "role": 0,
+    "name": "Água e Saneamento"
+  },
+  {
+    "category_id": "4.07 Despesas com Imóvel",
+    "role": 0,
+    "name": "Aluguel"
+  },
+  {
+    "category_id": "4.07 Despesas com Imóvel",
+    "role": 0,
+    "name": "Alvará de Funcionamento"
+  },
+  {
+    "category_id": "4.07 Despesas com Imóvel",
+    "role": 0,
+    "name": "Condomínio"
+  },
+  {
+    "category_id": "4.07 Despesas com Imóvel",
+    "role": 0,
+    "name": "Energia Elétrica"
+  },
+  {
+    "category_id": "4.07 Despesas com Imóvel",
+    "role": 0,
+    "name": "IPTU"
+  },
+  {
+    "category_id": "4.07 Despesas com Imóvel",
+    "role": 0,
+    "name": "Manutenção Predial"
+  },
+  {
+    "category_id": "4.07 Despesas com Imóvel",
+    "role": 0,
+    "name": "Retenção - Darf 3208 - IRRF Aluguel"
+  },
+  {
+    "category_id": "4.07 Despesas com Imóvel",
+    "role": 0,
+    "name": "Seguro de Imóveis"
+  },
+  {
+    "category_id": "4.07 Despesas com Imóvel",
+    "role": 0,
+    "name": "Taxa de Lixo"
+  },
+  {
+    "category_id": "4.07 Despesas com Imóvel",
+    "role": 0,
+    "name": "Vigilância e Segurança Patrimonial"
+  },
+  {
+    "category_id":  null,
+    "role": 0,
+    "name": "4.08 Despesas com Veículos"
+  },
+  {
+    "category_id": "4.08 Despesas com Veículos",
+    "role": 0,
+    "name": "Combustíveis"
+  },
+  {
+    "category_id": "4.08 Despesas com Veículos",
+    "role": 0,
+    "name": "Estacionamento"
+  },
+  {
+    "category_id": "4.08 Despesas com Veículos",
+    "role": 0,
+    "name": "IPVA / DPVAT / Licenciamento"
+  },
+  {
+    "category_id": "4.08 Despesas com Veículos",
+    "role": 0,
+    "name": "Manutenção de Veículos"
+  },
+  {
+    "category_id": "4.08 Despesas com Veículos",
+    "role": 0,
+    "name": "Multas de Trânsito"
+  },
+  {
+    "category_id": "4.08 Despesas com Veículos",
+    "role": 0,
+    "name": "Pedágios"
+  },
+  {
+    "category_id": "4.08 Despesas com Veículos",
+    "role": 0,
+    "name": "Seguros de Veículos"
+  },
+  {
+    "category_id": null,
+    "role": 0,
+    "name": "4.09 Despesas com Diretoria"
+  },
+  {
+    "category_id": "4.09 Despesas com Diretoria",
+    "role": 0,
+    "name": "Antecipação de Lucros"
+  },
+  {
+    "category_id": "4.09 Despesas com Diretoria",
+    "role": 0,
+    "name": "Despesas Pessoais dos Sócios"
+  },
+  {
+    "category_id": "4.09 Despesas com Diretoria",
+    "role": 0,
+    "name": "INSS sobre Pró-labore - GPS"
+  },
+  {
+    "category_id": "4.09 Despesas com Diretoria",
+    "role": 0,
+    "name": "IRRF sobre Pró-labore - Darf"
+  },
+  {
+    "category_id": "4.09 Despesas com Diretoria",
+    "role": 0,
+    "name": "Plano de Saúde Sócios"
+  },
+  {
+    "category_id": "4.09 Despesas com Diretoria",
+    "role": 0,
+    "name": "Plano Odontológico Sócios"
+  },
+  {
+    "category_id": "4.09 Despesas com Diretoria",
+    "role": 0,
+    "name": "Pró-labore"
+  },
+  {
+    "category_id": null,
+    "role": 0,
+    "name": "4.10 Despesas Financeiras"
+  },
+  {
+    "category_id": "4.10 Despesas Financeiras",
+    "role": 0,
+    "name": "Impostos sobre Aplicações"
+  },
+  {
+    "category_id": "4.10 Despesas Financeiras",
+    "role": 0,
+    "name": "Tarifas Bancárias"
+  },
+  {
+    "category_id": "4.10 Despesas Financeiras",
+    "role": 0,
+    "name": "Tarifas de Boletos"
+  },
+  {
+    "category_id": "4.10 Despesas Financeiras",
+    "role": 0,
+    "name": "Tarifas de Cartões de Crédito"
+  },
+  {
+    "category_id": "4.10 Despesas Financeiras",
+    "role": 0,
+    "name": "Tarifas DOC / TED"
+  },
+  {
+    "category_id": null,
+    "role": 0,
+    "name": "4.11 Outras Despesas"
+  },
+  {
+    "category_id": "4.11 Outras Despesas",
+    "role": 0,
+    "name": "Despesas a identificar"
+  },
+  {
+    "category_id": null,
+    "role": 0,
+    "name": "5.01 Bens Imobilizados da Empresa"
+  },
+  {
+    "category_id": "5.01 Bens Imobilizados da Empresa",
+    "role": 0,
+    "name": "Benfeitorias em Bens de Terceiros"
+  },
+  {
+    "category_id": "5.01 Bens Imobilizados da Empresa",
+    "role": 0,
+    "name": "Computadores e Periféricos"
+  },
+  {
+    "category_id": "5.01 Bens Imobilizados da Empresa",
+    "role": 0,
+    "name": "Construções em Andamento - Imóvel Próprio"
+  },
+  {
+    "category_id": "5.01 Bens Imobilizados da Empresa",
+    "role": 0,
+    "name": "Edifícios e Construções"
+  },
+  {
+    "category_id": "5.01 Bens Imobilizados da Empresa",
+    "role": 0,
+    "name": "Leasing - Imóveis"
+  },
+  {
+    "category_id": "5.01 Bens Imobilizados da Empresa",
+    "role": 0,
+    "name": "Leasing - Máquinas, Equipamentos e Instalações Industriais"
+  },
+  {
+    "category_id": "5.01 Bens Imobilizados da Empresa",
+    "role": 0,
+    "name": "Leasing - Móveis, Utensílios e Instalações Administrativos"
+  },
+  {
+    "category_id": "5.01 Bens Imobilizados da Empresa",
+    "role": 0,
+    "name": "Leasing - Móveis, Utensílios e Instalações Comerciais"
+  },
+  {
+    "category_id": "5.01 Bens Imobilizados da Empresa",
+    "role": 0,
+    "name": "Leasing - Outras Imobilizações"
+  },
+  {
+    "category_id": "5.01 Bens Imobilizados da Empresa",
+    "role": 0,
+    "name": "Leasing - Veículos"
+  },
+  {
+    "category_id": "5.01 Bens Imobilizados da Empresa",
+    "role": 0,
+    "name": "Máquinas, Equipamentos e Instalações Industriais"
+  },
+  {
+    "category_id": "5.01 Bens Imobilizados da Empresa",
+    "role": 0,
+    "name": "Móveis, Utensílios e Instalações Administrativos"
+  },
+  {
+    "category_id": "5.01 Bens Imobilizados da Empresa",
+    "role": 0,
+    "name": "Móveis, Utensílios e Instalações Comerciais"
+  },
+  {
+    "category_id": "5.01 Bens Imobilizados da Empresa",
+    "role": 0,
+    "name": "Outras Imobilizações por Aquisição"
+  },
+  {
+    "category_id": "5.01 Bens Imobilizados da Empresa",
+    "role": 0,
+    "name": "Software / Licença de Uso"
+  },
+  {
+    "category_id": "5.01 Bens Imobilizados da Empresa",
+    "role": 0,
+    "name": "Terrenos"
+  },
+  {
+    "category_id": "5.01 Bens Imobilizados da Empresa",
+    "role": 0,
+    "name": "Veículos"
+  },
+  {
+    "category_id": null,
+    "role": 0,
+    "name": "5.02 Empréstimos e Financiamentos"
+  },
+  {
+    "category_id": "5.02 Empréstimos e Financiamentos",
+    "role": 0,
+    "name": "Empréstimos de Bancos"
+  },
+  {
+    "category_id": "5.02 Empréstimos e Financiamentos",
+    "role": 0,
+    "name": "Empréstimos de Outras Instituições"
+  },
+  {
+    "category_id": "5.02 Empréstimos e Financiamentos",
+    "role": 0,
+    "name": "Empréstimos de Sócios"
+  },
+  {
+    "category_id": "5.02 Empréstimos e Financiamentos",
+    "role": 0,
+    "name": "Juros Conta Garantida"
+  },
+  {
+    "category_id": null,
+    "role": 0,
+    "name": "5.03 Parcelamentos e Dívidas"
+  },
+  {
+    "category_id": "5.03 Parcelamentos e Dívidas",
+    "role": 0,
+    "name": "Parcelamento do Simples Nacional"
+  }
+]
